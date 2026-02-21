@@ -1,0 +1,1 @@
+# Nessuna libreria esterna richiesta# Il progetto utilizza solo moduli standard di Python (random)python>=3.10
